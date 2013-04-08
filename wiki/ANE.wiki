@@ -51,7 +51,7 @@ You can create native extensions for the following devices:
   * *Android* devices, starting with AIR 3 and Android 2.2.
   * *iOS* devices, starting with AIR 3 and iOS 4.0
   * *iOS Simulator*, starting with AIR 3.3
-  * *Blackberry PlayBook*, starting with AIR 2.7
+  * *Blackberry !PlayBook*, starting with AIR 2.7
   * *Windows desktop* devices that support AIR 3.0
   * *Mac OS X desktop* devices that support AIR 3.0
   * *AIR for TV* devices, starting with AIR 2.5 for TV
