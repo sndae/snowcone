@@ -1,10 +1,21 @@
 #summary Starts Here.
 
-== Introduction ==
+Welcome to the *snowcone* project.
 
-TODO
+[http://code.google.com/p/snowcone/w/list list all the wiki pages]
 
+=== Mission Statement ===
 
-== Details ==
+<pre>
+Snowcone is here to augment the power of Adobe AIR on mobile devices and desktops,
+giving ActionScript developers access to low-level API and features
+which are not available through the standard AIR framework.
+</pre>
 
-TODO
+=== Status ===
+
+ * TODO
+
+=== Goals ===
+
+ * TODO
