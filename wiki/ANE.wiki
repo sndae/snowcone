@@ -5,12 +5,16 @@
 ANE been introduced with AIR 2.5 for TV,<br>
 and later with AIR 3.0 supports has been added for desktop, iOS and Android.
 
+from [http://www.adobe.com/devnet/air/articles/extending-air.html Extending Adobe AIR]
+{{{
+Prior to Adobe AIR 3, only Adobe could add core features to the runtime. Developers requiring new features could only wait. Now developers can extend the runtime themselves.
+}}}
 
 == Features ==
 
-  * 
-  * 
-  * 
+  * Achieve deeper integration with target devices
+  * Incorporate legacy native code in their application
+  * Achieve maximum performance for critical code
   * 
 
 == Ressources ==
