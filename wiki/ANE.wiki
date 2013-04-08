@@ -12,6 +12,31 @@ Developers requiring new features could only wait.
 Now developers can extend the runtime themselves.
 }}}
 
+from [http://help.adobe.com/en_US/air/extensions/WSb464b1207c184b14-70ccb6bd12937b4f2d6-7fff.html Introducing native extensions for Adobe AIR]
+{{{
+A native extension is a combination of:
+
+  * ActionScript classes.
+
+  * Native code. Native code is defined here as code that executes outside the runtime.
+    For example, code that you write in C is native code.
+    On some platforms, Java code is supported in extensions.
+    For the purpose of this documentation, this is also considered “native” code.
+
+Reasons to write a native extension include the following:
+
+  * A native code implementation provides access to device-specific features.
+    These device-specific features are not available in the built-in ActionScript classes,
+    and are not possible to implement in application-specific ActionScript classes.
+    The native code implementation can provide such functionality because it has access
+    to device-specific hardware and software.
+
+  * A native code implementation can sometimes be faster
+    than an implementation that uses only ActionScript.
+
+  * A native code implementation allows you to reuse existing code.
+}}}
+
 == Features ==
 
   * Achieve deeper integration with target devices
@@ -19,15 +44,35 @@ Now developers can extend the runtime themselves.
   * Achieve maximum performance for critical code
   * 
 
+== Supported devices ==
+
+You can create native extensions for the following devices:
+
+  * *Android* devices, starting with AIR 3 and Android 2.2.
+  * *iOS* devices, starting with AIR 3 and iOS 4.0
+  * *iOS Simulator*, starting with AIR 3.3
+  * *Blackberry PlayBook*, starting with AIR 2.7
+  * *Windows desktop* devices that support AIR 3.0
+  * *Mac OS X desktop* devices that support AIR 3.0
+  * *AIR for TV* devices, starting with AIR 2.5 for TV
+
+== Supported device profiles ==
+
+The following AIR profiles support native extensions:
+
+  * *extendedTV*, starting in AIR 2.5
+  * *extendedDesktop*, starting in AIR 3.0
+  * *mobileDevice*, starting in AIR 3.0
+
 == Ressources ==
 
 *links:*
-  * a
-  * b
+  * [http://www.adobe.com/devnet/air/native-extensions-for-air.html Native extensions for Adobe AIR] (Adobe)
+  * [http://help.adobe.com/en_US/air/extensions/index.html Developing Native Extensions] (Adobe Documentation)
   * c
 
 *documents:*
-  * a
+  * (PDF) [http://help.adobe.com/en_US/air/extensions/air_extensions.pdf Developing Native Extensions for Adobe AIR] (Adobe)
   * b
   * c
 
@@ -39,4 +84,4 @@ Now developers can extend the runtime themselves.
     * [http://www.adobe.com/devnet/air/articles/building-ane-ios-android-pt3.html Part 3: Building the iOS library] by Nathan Weber (!DigitalPrimates)
     * [http://www.adobe.com/devnet/air/articles/building-ane-ios-android-pt4.html Part 4: Building the Android library] by Nathan Weber (!DigitalPrimates)
     * [http://www.adobe.com/devnet/air/articles/building-ane-ios-android-pt5.html Part 5: Building the ANE file] by Nathan Weber (!DigitalPrimates)
-  * c
+  * [http://www.adobe.com/devnet/air/articles/ane-android-devices.html Developing and using Adobe AIR native extensions for Android devices] by Mark Hood (Adobe)
