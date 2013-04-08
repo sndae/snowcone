@@ -33,9 +33,10 @@ Now developers can extend the runtime themselves.
 
 *tutorials:*
   * [http://www.adobe.com/devnet/air/articles/extending-air.html Extending Adobe AIR] by Oliver Goldman (Adobe)
-  * [http://www.adobe.com/devnet/air/articles/building-ane-ios-android-pt1.html Building a native extension for iOS and Android – Part 1: Getting started with volume control] by Nathan Weber (DigitalPrimates)
-  * [http://www.adobe.com/devnet/air/articles/building-ane-ios-android-pt2.html Building a native extension for iOS and Android – Part 2: Developing the ActionScript library] by Nathan Weber (DigitalPrimates)
-  * [http://www.adobe.com/devnet/air/articles/building-ane-ios-android-pt3.html Building a native extension for iOS and Android – Part 3: Building the iOS library] by Nathan Weber (DigitalPrimates)
-  * [http://www.adobe.com/devnet/air/articles/building-ane-ios-android-pt4.html Building a native extension for iOS and Android – Part 4: Building the Android library] by Nathan Weber (DigitalPrimates)
-  * [http://www.adobe.com/devnet/air/articles/building-ane-ios-android-pt5.html Building a native extension for iOS and Android – Part 5: Building the ANE file] by Nathan Weber (DigitalPrimates)
+  * Building a native extension for iOS and Android
+    * [http://www.adobe.com/devnet/air/articles/building-ane-ios-android-pt1.html Part 1: Getting started with volume control] by Nathan Weber (!DigitalPrimates)
+    * [http://www.adobe.com/devnet/air/articles/building-ane-ios-android-pt2.html Part 2: Developing the ActionScript library] by Nathan Weber (!DigitalPrimates)
+    * [http://www.adobe.com/devnet/air/articles/building-ane-ios-android-pt3.html Part 3: Building the iOS library] by Nathan Weber (!DigitalPrimates)
+    * [http://www.adobe.com/devnet/air/articles/building-ane-ios-android-pt4.html Part 4: Building the Android library] by Nathan Weber (!DigitalPrimates)
+    * [http://www.adobe.com/devnet/air/articles/building-ane-ios-android-pt5.html Part 5: Building the ANE file] by Nathan Weber (!DigitalPrimates)
   * c
